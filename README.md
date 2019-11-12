@@ -4,7 +4,7 @@
 ### 使用
 1. 安装
 ```bash
-import vueCropperJs from 'vue-cropper-js'
+import vueCropperJs from 'vue-cropper-js-simplify'
 ```
 2. 在html中即可使用组件
 ``` html
